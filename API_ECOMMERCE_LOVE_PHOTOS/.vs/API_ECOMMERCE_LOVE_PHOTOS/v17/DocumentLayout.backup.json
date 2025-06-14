@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|c:\\users\\user\\desktop\\fullstack\\ecommerce_love_photos\\api_ecommerce_love_photos\\api_ecommerce_love_photos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|solutionrelative:api_ecommerce_love_photos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|c:\\users\\user\\desktop\\fullstack\\ecommerce_love_photos\\api_ecommerce_love_photos\\api_ecommerce_love_photos\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|solutionrelative:api_ecommerce_love_photos\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|c:\\users\\user\\desktop\\fullstack\\ecommerce_love_photos\\api_ecommerce_love_photos\\api_ecommerce_love_photos\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|solutionrelative:api_ecommerce_love_photos\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|c:\\users\\user\\desktop\\fullstack\\ecommerce_love_photos\\api_ecommerce_love_photos\\api_ecommerce_love_photos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|solutionrelative:api_ecommerce_love_photos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|c:\\users\\user\\desktop\\fullstack\\ecommerce_love_photos\\api_ecommerce_love_photos\\api_ecommerce_love_photos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|solutionrelative:api_ecommerce_love_photos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|c:\\users\\user\\desktop\\fullstack\\ecommerce_love_photos\\api_ecommerce_love_photos\\api_ecommerce_love_photos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F983EA13-1F74-4F5C-844C-CFD522CD1714}|API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj|solutionrelative:api_ecommerce_love_photos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\appsettings.json",
+              "RelativeDocumentMoniker": "API_ECOMMERCE_LOVE_PHOTOS\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\appsettings.json",
+              "RelativeToolTip": "API_ECOMMERCE_LOVE_PHOTOS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T10:39:17.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "API_ECOMMERCE_LOVE_PHOTOS\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "API_ECOMMERCE_LOVE_PHOTOS\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:37:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "API_ECOMMERCE_LOVE_PHOTOS\\Repository\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "API_ECOMMERCE_LOVE_PHOTOS\\Repository\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:36:36.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API_ECOMMERCE_LOVE_PHOTOS\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API_ECOMMERCE_LOVE_PHOTOS\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:30:24.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "API_ECOMMERCE_LOVE_PHOTOS\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Models\\Product.cs",
+              "RelativeToolTip": "API_ECOMMERCE_LOVE_PHOTOS\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:27:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Program.cs",
+              "RelativeDocumentMoniker": "API_ECOMMERCE_LOVE_PHOTOS\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\Program.cs",
+              "RelativeToolTip": "API_ECOMMERCE_LOVE_PHOTOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:25:17.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
