@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_ECOMMERCE_LOVE_PHOTOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8fdfcd921ff8808cc0bb3c141d71de89be4dcef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0af88f3602c222b11eff1a92669c8452230ae5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_ECOMMERCE_LOVE_PHOTOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_ECOMMERCE_LOVE_PHOTOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

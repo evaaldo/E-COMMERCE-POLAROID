@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj": {}
+    "C:\\Users\\User\\Desktop\\Production Projects\\E-COMMERCE-POLAROID\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj": {
+    "C:\\Users\\User\\Desktop\\Production Projects\\E-COMMERCE-POLAROID\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Production Projects\\E-COMMERCE-POLAROID\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj",
         "projectName": "API_ECOMMERCE_LOVE_PHOTOS",
-        "projectPath": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Production Projects\\E-COMMERCE-POLAROID\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\fullstack\\ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Production Projects\\E-COMMERCE-POLAROID\\API_ECOMMERCE_LOVE_PHOTOS\\API_ECOMMERCE_LOVE_PHOTOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
