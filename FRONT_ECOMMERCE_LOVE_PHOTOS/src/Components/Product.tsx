@@ -3,7 +3,7 @@ import { type Product } from "../Interfaces/Product"
 
 export function Product(product: Product) {
     return(
-        <div className="flex items-center justify-center gap-30 py-18">
+        <div id="product" className="flex items-center justify-center gap-30 py-18">
             <div className="flex flex-col">
                 <img src="/produto1.png" alt="" className="w-[400px] rounded-2xl" />
                 <div className="flex justify-center gap-4 py-4">

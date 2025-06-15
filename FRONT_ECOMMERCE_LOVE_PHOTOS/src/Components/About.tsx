@@ -1,6 +1,6 @@
 export function About() {
     return (
-        <div className="flex justify-center items-center gap-20 py-30">
+        <div id="about" className="flex justify-center items-center gap-20 py-30">
             <div className="flex flex-col gap-6">
                 <span className="text-6xl font-bold pb-10">O que fazemos?</span>
                 <p>A love photos confecciona itens polaroid, sejam estes fotos, polaroid de mesa ou algumas variações criativas desses projetos</p>
