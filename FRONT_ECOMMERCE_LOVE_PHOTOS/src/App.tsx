@@ -1,5 +1,6 @@
 import { About } from "./Components/About"
 import { Delivery } from "./Components/Delivery"
+import { Footer } from "./Components/Footer"
 import { Header } from "./Components/Header"
 import { Product } from "./Components/Product"
 import './Styles/global.css'
@@ -19,6 +20,7 @@ function App() {
         <Delivery />
         <About />
       </main>
+      <Footer />
     </div>
   )
 }
