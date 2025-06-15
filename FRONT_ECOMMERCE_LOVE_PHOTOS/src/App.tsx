@@ -1,3 +1,4 @@
+import { Delivery } from "./Components/Delivery"
 import { Header } from "./Components/Header"
 import { Product } from "./Components/Product"
 import './Styles/global.css'
@@ -14,6 +15,7 @@ function App() {
           Price="39.90"
           Base64=""
         />
+        <Delivery />
       </main>
     </div>
   )
