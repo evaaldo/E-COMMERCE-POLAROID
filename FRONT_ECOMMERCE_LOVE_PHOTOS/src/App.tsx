@@ -1,3 +1,4 @@
+import { About } from "./Components/About"
 import { Delivery } from "./Components/Delivery"
 import { Header } from "./Components/Header"
 import { Product } from "./Components/Product"
@@ -16,6 +17,7 @@ function App() {
           Base64=""
         />
         <Delivery />
+        <About />
       </main>
     </div>
   )
