@@ -2,7 +2,7 @@ import { Truck, InstagramLogo } from "phosphor-react"
 
 export function Delivery() {
     return (
-        <div id="delivery" className="flex justify-center items-center gap-10">
+        <div id="delivery" className="flex justify-center items-center gap-10 my-20">
             <div className="w-[600px] flex items-center justify-center gap-10 py-8 rounded-xl shadow-pers">
                 <div className="flex flex-col gap-4">
                     <span className="font-bold text-xl">Entregas</span>

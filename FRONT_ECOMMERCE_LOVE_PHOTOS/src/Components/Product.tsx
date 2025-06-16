@@ -11,7 +11,7 @@ export function Product(product: ProductType) {
     };
 
     return(
-        <div id="product" className="flex items-center justify-center gap-30 py-18">
+        <div id="product" className="flex items-center justify-center gap-30 pt-18">
             <div className="flex flex-col">
                 <img src={base64Formatted(product.Base64)} alt="" className="w-[400px] rounded-2xl" />
                 <div className="flex justify-center gap-4 py-4">
