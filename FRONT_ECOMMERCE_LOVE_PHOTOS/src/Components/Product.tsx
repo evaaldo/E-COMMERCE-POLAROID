@@ -17,10 +17,10 @@ export function Product(product: ProductType) {
     };
 
     return(
-        <div id="product" className="flex items-center justify-center gap-30 pt-18">
+        <div id="product" className="flex flex-col items-center justify-center gap-10 pt-10 px-10 lg:px-0 lg:flex-row lg:gap-30 lg:pt-18">
             <div className="flex flex-col">
-                <img src={base64Formatted(product.Base64)} alt="" className="w-[400px] rounded-2xl" />
-                <div className="flex justify-center gap-4 py-4">
+                <img src={base64Formatted(product.Base64)} alt="" className="w-full rounded-2xl lg:w-[400px]" />
+                <div className="hidden lg:flex justify-center gap-4 py-4">
                     <img src={base64Formatted(product.Base64)} alt="" className="w-[80px] rounded-2xl" />
                     <img src={base64Formatted(product.Base64)} alt="" className="w-[80px] rounded-2xl" />
                     <img src={base64Formatted(product.Base64)} alt="" className="w-[80px] rounded-2xl" />
@@ -30,7 +30,7 @@ export function Product(product: ProductType) {
             <div className="flex flex-col">
                 <span className="font-bold text-blue-500 text-center mb-2">Love Photos</span>
                 <h2 className="font-bold text-4xl text-center">{product.Name}</h2>
-                <span className="w-[400px] py-5">{product.Description}</span>
+                <span className="w-[350px] py-5">{product.Description}</span>
                 <span className="font-bold text-green-700 text-2xl">R$ {priceFormatted(product.Price)}</span>
                 <a href={whatsappFormatted(product.SellerName, product.SellerPhone, product.Name)} className="bg-green-700 text-white flex justify-center items-center gap-2 py-4 rounded-xl mt-6 cursor-pointer hover:bg-green-600 transition-all duration-300 ease-in-out">
                     <Bag size={20}/> Comprar
