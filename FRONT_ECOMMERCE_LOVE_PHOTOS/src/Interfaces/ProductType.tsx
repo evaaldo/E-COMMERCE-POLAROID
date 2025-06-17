@@ -4,4 +4,6 @@ export interface ProductType {
     Description: string;
     Price: number;
     Base64: string;
+    SellerName: string;
+    SellerPhone: string;
 }

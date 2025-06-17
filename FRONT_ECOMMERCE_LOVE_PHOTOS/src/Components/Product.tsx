@@ -10,6 +10,12 @@ export function Product(product: ProductType) {
         return price + "0";
     };
 
+    const whatsappFormatted = (sellerName: string, sellerPhone: string, Name: string) => {
+        const message = `Olá, ${sellerName}, gostaria de mais informações sobre o produto ${Name}`;
+        const encodedMessage = encodeURIComponent(message);
+        return `https://wa.me/${sellerPhone}?text=${encodedMessage}`;
+    };
+
     return(
         <div id="product" className="flex items-center justify-center gap-30 pt-18">
             <div className="flex flex-col">
@@ -26,9 +32,9 @@ export function Product(product: ProductType) {
                 <h2 className="font-bold text-4xl text-center">{product.Name}</h2>
                 <span className="w-[400px] py-5">{product.Description}</span>
                 <span className="font-bold text-green-700 text-2xl">R$ {priceFormatted(product.Price)}</span>
-                <button className="bg-green-700 text-white flex justify-center items-center gap-2 py-4 rounded-xl mt-6 cursor-pointer hover:bg-green-600 transition-all duration-300 ease-in-out">
+                <a href={whatsappFormatted(product.SellerName, product.SellerPhone, product.Name)} className="bg-green-700 text-white flex justify-center items-center gap-2 py-4 rounded-xl mt-6 cursor-pointer hover:bg-green-600 transition-all duration-300 ease-in-out">
                     <Bag size={20}/> Comprar
-                </button>
+                </a>
             </div>
         </div>
     )

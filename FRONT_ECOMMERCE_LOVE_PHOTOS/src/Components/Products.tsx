@@ -36,6 +36,8 @@ export function Products() {
                     Description={product.description}
                     Price={product.price}
                     Base64={product.base64}
+                    SellerName={product.sellerName}
+                    SellerPhone={product.sellerPhone}
                 />
             ))}
         </Slider>
