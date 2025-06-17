@@ -7,15 +7,29 @@ import { useEffect, useState } from "react";
 import { XCircle } from "phosphor-react";
 
 export function Products() {
+    const [products, setProducts] = useState<ProductType[]>([]);
+    const [isMobile, setIsMobile] = useState(false);
+
+    useEffect(() => {
+        const checkIsMobile = () => {
+            setIsMobile(window.innerWidth < 1024);
+        };
+
+        checkIsMobile();
+        window.addEventListener("resize", checkIsMobile);
+
+        return () => {
+            window.removeEventListener("resize", checkIsMobile);
+        };
+    }, []);
+
     const settings = {
-        dots: true,
+        dots: !isMobile,
         infinite: true,
         speed: 500,
         slidesToShow: 1,
         slidesToScroll: 1
     }
-
-    const [products, setProducts] = useState<ProductType[]>([]);
 
     useEffect(() => {
     fetch("https://localhost:7173/api/product")

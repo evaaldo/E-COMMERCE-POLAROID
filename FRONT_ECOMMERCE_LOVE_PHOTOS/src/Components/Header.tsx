@@ -5,10 +5,10 @@ export function Header() {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
-        <header className="flex justify-around items-center py-6 w-full border-1 border-gray-200">
+        <header className="flex justify-around items-center py-3 w-full border-1 border-gray-200 lg:py-6">
             <div className="flex justify-center items-center gap-20">
                 <a href="#" className="text-3xl font-semibold">Love Photos</a>
-                <ul className="flex gap-6">
+                <ul className="hidden lg:flex gap-6">
                     <li><a className="relative text-gray-700 after:absolute after:left-0 after:bottom-0 after:translate-y-1 after:h-[2px] after:w-full after:bg-gray-700 after:scale-x-0 after:origin-left after:transition-all after:duration-300 hover:after:scale-x-100" href="#product">Compre conosco</a></li>
                     <li><a className="relative text-gray-700 after:absolute after:left-0 after:bottom-0 after:translate-y-1 after:h-[2px] after:w-full after:bg-gray-700 after:scale-x-0 after:origin-left after:transition-all after:duration-300 hover:after:scale-x-100" href="#delivery">Entrega</a></li>
                     <li><a className="relative text-gray-700 after:absolute after:left-0 after:bottom-0 after:translate-y-1 after:h-[2px] after:w-full after:bg-gray-700 after:scale-x-0 after:origin-left after:transition-all after:duration-300 hover:after:scale-x-100" href="#delivery">Redes sociais</a></li>
@@ -16,7 +16,7 @@ export function Header() {
                     <li><a className="relative text-gray-700 after:absolute after:left-0 after:bottom-0 after:translate-y-1 after:h-[2px] after:w-full after:bg-gray-700 after:scale-x-0 after:origin-left after:transition-all after:duration-300 hover:after:scale-x-100" href="#footer">Contato</a></li>
                 </ul>
             </div>
-            <button onClick={() => setIsOpen(true)}>
+            <button className="hidden lg:block" onClick={() => setIsOpen(true)}>
                 <Question size={44} className="cursor-pointer" />
             </button>
             {isOpen && (

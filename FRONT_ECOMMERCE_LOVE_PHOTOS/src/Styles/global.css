@@ -7,7 +7,6 @@
 
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 body, h1, h2, h3, p, ul, ol, li {
