@@ -26,11 +26,25 @@ docker-compose up --build -d
 docker-compose down -v
 ```
 
-### 📸 Imagens do projeto
-
-
-
 ### ⚠ Observações
 
 **📱 BR - Mobile**: O sistema foi construído com uma estilização para o mobile. <br/>
 **📱 EN - Mobile**: The system was build with styles for mobile screens.
+
+### 📸 Imagens do projeto
+
+#### Desktop
+
+![image](https://github.com/user-attachments/assets/599dc5e2-c5d7-4f9a-8b04-0b9d5b5c3e54)
+
+![image](https://github.com/user-attachments/assets/158b5cbd-2594-4d9e-aeaf-1cd5ec65a38b)
+
+#### Mobile
+
+![image](https://github.com/user-attachments/assets/52f1cf76-94a8-4c67-98ff-d5c1dced0914)
+
+![image](https://github.com/user-attachments/assets/b9ba2959-6ef2-4297-b1e6-30022adc226e)
+
+![image](https://github.com/user-attachments/assets/d6291097-5510-464b-b350-63bcb1d747bf)
+
+![image](https://github.com/user-attachments/assets/370c4670-e51b-4a16-a32a-ba1c72c5ba29)
