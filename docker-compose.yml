@@ -1,0 +1,29 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: db_ecommerce_love_photos
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=230520
+      - POSTGRES_DB=EcommerceLovePhotos
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  api:
+    build: ./API_ECOMMERCE_LOVE_PHOTOS
+    container_name: api_ecommerce_love_photos
+    ports:
+      - "7173:7173"
+    depends_on:
+      - db
+
+  front:
+    build: ./FRONT_ECOMMERCE_LOVE_PHOTOS
+    container_name: front_ecommerce_love_photos
+    ports:
+      - "5173:5173"
+
+volumes:
+  pgdata:
