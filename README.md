@@ -14,7 +14,7 @@
 git clone https://github.com/evaaldo/E-COMMERCE-POLAROID.git
 ```
 
-### 🐋 Container
+<!-- ### 🐋 Container
 
 **BR:** Após clonar o repositório, use os comandos abaixo dentro da pasta onde foi clonado para subir o container após clonar o repositório.  
 **EN:** After cloning the repository, navigate to the cloned folder and run the commands below to start the container.
@@ -24,7 +24,7 @@ git clone https://github.com/evaaldo/E-COMMERCE-POLAROID.git
 ```sh
 docker-compose up --build -d
 docker-compose down -v
-```
+``` -->
 
 ### ⚠ Observações
 
